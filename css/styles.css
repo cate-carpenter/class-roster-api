@@ -1,7 +1,15 @@
 /* My Styles */
 
 img {
-    max-width: 30%;
+    max-width: 40%;
     height: auto;
-border-radius: 50%
+    border-radius: 50%
+}
+
+figure {
+    max-width: 40%;
+    height: auto;
+    display: inline-grid;
+    column-gap: 1em;
+    align-items: center;
 }

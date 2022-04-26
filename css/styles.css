@@ -4,6 +4,12 @@ img {
     max-width: 40%;
     height: auto;
     border-radius: 50%
+    
+}
+
+img:hover {
+    opacity: 0%;
+    transition: opacity .2s ease-in;
 }
 
 figure {
@@ -14,8 +20,10 @@ figure {
     align-items: center;
 }
 
+
 figcaption {
 font-family: source-sans-pro, sans-serif;
 font-weight: 600;
 font-style: normal;
+margin: 1.5em;
 }

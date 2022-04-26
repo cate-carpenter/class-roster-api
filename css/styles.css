@@ -13,3 +13,9 @@ figure {
     column-gap: 1em;
     align-items: center;
 }
+
+figcaption {
+font-family: source-sans-pro, sans-serif;
+font-weight: 600;
+font-style: normal;
+}

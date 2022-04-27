@@ -1,6 +1,7 @@
-# Class Roster via our API data
+# My Class Roster via our API data
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/class-roster-via-api"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+## Sources
+My past CodePen projects. 
 
 ## What Is This? 
 Get, Show, and Style a Class Roster via our API data
@@ -11,10 +12,9 @@ Get, Show, and Style a Class Roster via our API data
 * `fetch` a JSON data endpoint from Webflow
 * Apply foundations of a _headless CMS_
 
-## Sources
-List your sources here
-
 ## Why Does This Exist? 
 Webflow (and many others) have a no-code CMS, and GUI for designing the templates. Webflow (and many others) also have an API that is accessible as a _headless CMS_. 
+
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/class-roster-via-api"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
 [WebFlow CMS](https://university.webflow.com/lesson/intro-to-webflow-cms)
